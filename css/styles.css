@@ -147,8 +147,8 @@ h3 {
   .share_menu {
     box-shadow: none;
     width: calc(100% + 60px);
-    height: 90px;
-    padding: 20px 0 0;
+    height: 40px;
+    padding: 0 0 15px;
     top: 3%;
     left: -30px;
     bottom: 0;
